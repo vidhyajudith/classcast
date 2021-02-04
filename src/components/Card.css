@@ -1,0 +1,140 @@
+.card-container {
+    width:300px;
+    overflow: hidden;
+    height: 100px;    
+    padding:4% 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid white;    
+    border-radius: 20px;
+}
+.blue-card{
+    background-color: rgb(34, 72, 240);
+    -webkit-box-shadow: 0 10px rgb(131, 162, 245);
+    -moz-box-shadow: 0 10px rgb(131, 162, 245);
+    box-shadow: 0 10px rgb(131, 162, 245);
+    border-radius: 20px;
+}
+.red-card{
+    background-color: rgb(240, 58, 34);
+    -webkit-box-shadow: 0 10px rgb(245, 158, 131);
+    -moz-box-shadow: 0 10px rgb(245, 158, 131);
+    box-shadow: 0 10px rgb(245, 158, 131);
+    border-radius: 20px;
+}
+.card-element {
+    display: inline-flex;
+    display: inline-block;
+    justify-content: center;
+    align-items:center;
+    padding: 2% 4% 0;
+    margin: 0;    
+    position: relative;
+    top:-20px;
+    color: white;
+    text-align: left;
+}
+.card-title{
+    font-size: 1em;
+    padding: 0;
+    margin:0;
+    position: relative;
+    top:-20px;
+}
+.card-sub-title{
+    font-size: .8em;
+    font-weight: 500;
+    margin: 0;
+    padding-top: 0;
+    position: relative;
+    top:-20px;
+
+}
+.timer{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 2em;
+    padding: 0;
+    margin:0;
+    position: relative;
+    top:20px
+}
+p{
+    font-size: .7em;
+    align-items: center;
+    text-align: center;
+}
+.time {
+    background-color: honeydew;
+    text-align: center;
+    height: 18px;
+    width: 40px;
+    border-radius: 5px;
+    position: relative;
+    top:-20px;
+    color: grey;
+}
+h4{
+    font-size: .7em;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top:-15px;
+
+}
+.card-icon{
+    display: inline-flex;
+    justify-content: right;
+    align-items: flex-end;
+    position: relative;
+    top: -50px;
+    right:-10px;
+
+}
+.signup-card-container{
+    width:90%;
+    overflow: hidden;
+    height: 120px;    
+    padding:4%;;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-bottom: 2px solid white;    
+    border-radius: 20px;
+    background-color: rgb(245, 230, 181);
+    -webkit-box-shadow: 0 10px rgb(211, 181, 82);
+    -moz-box-shadow: 0 10px rgb(211, 181, 82);
+    box-shadow: 0 10px rgb(211, 181, 82);
+    color: rgb(235, 161, 23);
+    border-radius: 20px;
+}
+.signup-card-element{
+    display: inline-flex;
+    display: inline-block;
+    justify-content: center;
+    align-items:center;
+    padding: 2% 4% 0;
+    margin: 0;    
+    position: relative;
+    top:-20px;
+}
+.card-img{
+    align-items:center;
+    justify-content: center;
+    width: 100px;
+    margin-top:30px;
+    position: relative;
+    right:50px;
+    
+}
+.info{
+    width: 120px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: .7em;
+    padding: 0;
+    margin:0;
+    position: absolute;
+    top:-100px;
+    right:-50px;
+}

@@ -1,0 +1,30 @@
+.profile-container{
+    margin:0;
+    padding: 0;
+    width: fit-content;
+}
+
+.userName{
+    margin:0;
+    padding:0;
+    font-size:1em;
+    font-weight: 500;
+}
+
+.user-info{
+    padding:0 10px;
+}
+.act-type{
+    margin:0;
+    font-size: 0.6em;
+    font-weight: 400;
+
+
+}
+.icon{
+    position: relative;
+    right: -40px;
+    top:-10px;
+    margin-left: 20px;
+    
+}
