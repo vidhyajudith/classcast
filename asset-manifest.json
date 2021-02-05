@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//vidhyajudith.github.io/classcast/static/css/main.49ef7c20.chunk.css",
+    "main.js": "/https//vidhyajudith.github.io/classcast/static/js/main.458d31ed.chunk.js",
+    "main.js.map": "/https//vidhyajudith.github.io/classcast/static/js/main.458d31ed.chunk.js.map",
+    "runtime-main.js": "/https//vidhyajudith.github.io/classcast/static/js/runtime-main.4dfc1712.js",
+    "runtime-main.js.map": "/https//vidhyajudith.github.io/classcast/static/js/runtime-main.4dfc1712.js.map",
+    "static/js/2.0a560734.chunk.js": "/https//vidhyajudith.github.io/classcast/static/js/2.0a560734.chunk.js",
+    "static/js/2.0a560734.chunk.js.map": "/https//vidhyajudith.github.io/classcast/static/js/2.0a560734.chunk.js.map",
+    "index.html": "/https//vidhyajudith.github.io/classcast/index.html",
+    "static/css/main.49ef7c20.chunk.css.map": "/https//vidhyajudith.github.io/classcast/static/css/main.49ef7c20.chunk.css.map",
+    "static/js/2.0a560734.chunk.js.LICENSE.txt": "/https//vidhyajudith.github.io/classcast/static/js/2.0a560734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dfc1712.js",
+    "static/js/2.0a560734.chunk.js",
+    "static/css/main.49ef7c20.chunk.css",
+    "static/js/main.458d31ed.chunk.js"
+  ]
+}
